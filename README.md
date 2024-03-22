@@ -1,7 +1,7 @@
 # OsteoporosisRiskPrediction
 <html>
 <head>
-<title>About Dataset and Potential Analysis</title>
+
 </head>
 <body>
 
